@@ -1,5 +1,6 @@
 {
   "name": "Remove UG Ads",
+  "author": "Zaid Daba'een",
   "description": "Removes UG Ads",
     "icons": {"16" : "download.png","48":"download.png", "128":"download.png"},
   "version": "1.0",
